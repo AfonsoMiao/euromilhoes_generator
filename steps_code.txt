@@ -1,0 +1,9 @@
+1) Get a list of years that has results. In class name "archives-links" and inside of list with class name "year" has the years
+
+	https://www.euro-millions.com/pt/arquivo-de-resultados-<year>
+	
+2) Get a list of classes that are "archives" because of the results
+3) How to get the number of balls and stars?
+	--> Get list of classname "balls small"
+	--> classname "new ball" and classname "new lucky-star"
+	
